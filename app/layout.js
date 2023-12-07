@@ -16,6 +16,7 @@ export default function RootLayout({ children }) {
         <div className="max-w-6xl mx-auto">
           <Navbar />
           {children}
+          {/* <p>This a Footer Component</p> */}
         </div>
       </body>
     </html>
